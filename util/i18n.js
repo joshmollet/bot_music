@@ -27,7 +27,7 @@ i18n.configure({
     "zh_tw"
   ],
   directory: join(__dirname, "..", "locales"),
-  defaultLocale: "en",
+  defaultLocale: "fr",
   retryInDefaultLocale: true,
   objectNotation: true,
   register: global,
